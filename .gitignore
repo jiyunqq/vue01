@@ -2,11 +2,12 @@
 node_modules
 /dist
 /docs
-/scripts
+scripts
 /public/404.html
 
 
 # local env files
+.env
 .env.local
 .env.*.local
 
