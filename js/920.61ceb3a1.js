@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue01"]=self["webpackChunkvue01"]||[]).push([[920],{3920:function(n,u,t){t.r(u),t.d(u,{default:function(){return i}});var e=function(){var n=this;n._self._c;return n._m(0)},l=[function(){var n=this,u=n._self._c;return u("div",{staticClass:"login"},[u("h1",[n._v("这是登录页面")])])}],s=t(1001),r={},c=(0,s.Z)(r,e,l,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=920.61ceb3a1.js.map
